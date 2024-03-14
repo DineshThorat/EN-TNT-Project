@@ -57,24 +57,24 @@ project-root/
 
 3. Install the dependencies:
    
-    cd frontend
+    cd frontend :-
     npm install
     
-    cd ../backend
+    cd ../backend :-
     npm install
     
-    cd ../admin
+    cd ../admin :-
     npm install
 
 4. Usage:
 
-    cd backend
+    cd backend :-
     npm run server
 
-    cd frontend
+    cd frontend :-
     npm run dev
 
-    cd admin
+    cd admin :-
     npm run dev
 
 
